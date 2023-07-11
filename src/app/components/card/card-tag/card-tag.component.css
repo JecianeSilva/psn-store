@@ -1,4 +1,4 @@
-.card-label__container {
+.card-tag__container {
     position: absolute;
     top:  24px;
     right: -46px;
@@ -6,7 +6,7 @@
     transform: rotate(45deg);
 }
 
-.card-label__content {
+.card-tag__content {
     display: flex;
     align-items: center;
     justify-content: center;

@@ -9,7 +9,8 @@ export class CardPricingComponent implements OnInit {
 
   @Input()
   gameType: string = '';
-
+  @Input()
+  gameLabel: string = '';
   @Input()
   gamePrice: string="";
 
