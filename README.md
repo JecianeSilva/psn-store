@@ -19,6 +19,10 @@
   </a>
 </p>
 
+## Tela
+![image](https://github.com/JecianeSilva/psn-store/assets/43557425/3da36597-1414-4e26-a2a5-0dd710cdc2d1)
+
+
 ## Conteudo visto durante o evento
 - Preparação de Ambiente
 - Estruturar um Projeto Angular
