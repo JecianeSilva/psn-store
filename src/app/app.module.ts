@@ -8,6 +8,7 @@ import { CardComponent } from './components/card/card.component';
 import { MenuBarComponent } from './components/menu-bar/menu-bar.component';
 import { CardTagComponent } from './components/card/card-tag/card-tag.component';
 import { CardPricingComponent } from './components/card/card-pricing/card-pricing.component';
+import { MenuBarItemComponent } from './components/menu-bar/menu-bar-item/menu-bar-item.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { CardPricingComponent } from './components/card/card-pricing/card-pricin
     CardComponent,
     MenuBarComponent,
     CardTagComponent,
-    CardPricingComponent
+    CardPricingComponent,
+    MenuBarItemComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,28 @@
+
+.menu-bar__item {
+    display: flex;
+    margin: auto;
+    align-items: center;
+}
+
+.menu-bar__item > ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.menu-bar__item > ul > li {
+    padding: 4px;
+    margin-right: 16px;
+}
+
+.menu-bar__item > ul > li > a {
+    text-decoration: none;
+    padding: 5px;
+    color: rgb(7, 7, 7);
+    font-family: "Segoe UI";
+}
+
+.menu-bar__item > ul > li > a:hover {
+    color: rgba(9, 9, 121, 1);
+    font-weight: 600;
+}
